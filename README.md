@@ -42,12 +42,12 @@ To get started with Taskify, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/taskify.git
+    git clone https://github.com/PARASMANI-KHUNTE/Todo-With-React-js.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd taskify
+    cd Todo-With-React-js
     ```
 
 3. Install the dependencies:
